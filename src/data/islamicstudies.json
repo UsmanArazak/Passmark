@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "The first pillar of Islam is:",
+    "options": ["A. Salat (Prayer)", "B. Saum (Fasting)", "C. Shahada (Declaration of faith)", "D. Zakat (Almsgiving)"],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "The holy book of Islam is called:",
+    "options": ["A. The Torah", "B. The Bible", "C. The Quran", "D. The Psalms"],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "In which city was the Prophet Muhammad (SAW) born?",
+    "options": ["A. Madinah", "B. Jerusalem", "C. Makkah", "D. Baghdad"],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "The Hijrah refers to the migration of the Prophet Muhammad (SAW) from Makkah to:",
+    "options": ["A. Jerusalem", "B. Madinah", "C. Ta'if", "D. Baghdad"],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "How many times daily are Muslims required to pray?",
+    "options": ["A. 3", "B. 4", "C. 5", "D. 7"],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Zakat is obligatory on Muslims who possess wealth above the minimum threshold called:",
+    "options": ["A. Sadaqah", "B. Nisab", "C. Ushr", "D. Kharaj"],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "The month of fasting in the Islamic calendar is:",
+    "options": ["A. Shawwal", "B. Muharram", "C. Ramadan", "D. Dhul Hijjah"],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "The Hajj pilgrimage must be performed in the city of:",
+    "options": ["A. Madinah", "B. Jerusalem", "C. Cairo", "D. Makkah"],
+    "answer": "D"
+  },
+  {
+    "id": 9,
+    "question": "The Arabic word 'Islam' literally means:",
+    "options": ["A. Peace and submission", "B. Prayer", "C. Brotherhood", "D. Faith"],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "The first chapter of the Quran is called:",
+    "options": ["A. Al-Baqarah", "B. Al-Ikhlas", "C. Al-Fatihah", "D. An-Nas"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "The Prophet Muhammad (SAW) received his first revelation in:",
+    "options": ["A. The mosque in Makkah", "B. The Cave of Hira", "C. Madinah", "D. The Ka'bah"],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Who was the first Caliph after the death of Prophet Muhammad (SAW)?",
+    "options": ["A. Umar ibn al-Khattab", "B. Uthman ibn Affan", "C. Ali ibn Abi Talib", "D. Abu Bakr al-Siddiq"],
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "question": "The Quran was compiled into a single book during the caliphate of:",
+    "options": ["A. Abu Bakr", "B. Umar", "C. Uthman", "D. Ali"],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "The Islamic term for almsgiving to the poor beyond Zakat is:",
+    "options": ["A. Nisab", "B. Sadaqah", "C. Waqf", "D. Jizyah"],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "The night of power (Laylatul Qadr) falls within which part of Ramadan?",
+    "options": ["A. First ten days", "B. Middle ten days", "C. Last ten days", "D. First day"],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Which prophet is considered the father of the three Abrahamic religions?",
+    "options": ["A. Musa (Moses)", "B. Isa (Jesus)", "C. Ibrahim (Abraham)", "D. Nuh (Noah)"],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "The Ka'bah is located at the centre of which mosque?",
+    "options": ["A. Al-Aqsa Mosque", "B. Masjid al-Nabawi", "C. Masjid al-Haram", "D. Sultan Mosque"],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Shari'ah refers to:",
+    "options": ["A. The Quran only", "B. Islamic law derived from the Quran and Sunnah", "C. The Hadith only", "D. Judgments of Islamic scholars"],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "The Hadith refers to:",
+    "options": ["A. The Quran", "B. Recorded sayings and actions of the Prophet Muhammad (SAW)", "C. Islamic prayer", "D. Annual tithe"],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "The Islamic New Year begins with the month of:",
+    "options": ["A. Ramadan", "B. Dhul Hijjah", "C. Muharram", "D. Rajab"],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "The term 'Sunnah' refers to:",
+    "options": ["A. The Quran", "B. The practice and traditions of the Prophet Muhammad (SAW)", "C. Islamic schools of thought", "D. A form of prayer"],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "In Islamic jurisprudence, the term 'Ijma' means:",
+    "options": ["A. Personal reasoning", "B. Analogy", "C. Consensus of Muslim scholars", "D. The Quran's rulings"],
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Eid al-Adha commemorates the willingness of Prophet _________ to sacrifice his son.",
+    "options": ["A. Muhammad", "B. Musa", "C. Ibrahim", "D. Ismail"],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "The two main sects of Islam are:",
+    "options": ["A. Catholics and Protestants", "B. Sunni and Shia", "C. Sufis and Salafis", "D. Hanafi and Maliki"],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Which prophet is known for building the Ark?",
+    "options": ["A. Ibrahim", "B. Musa", "C. Nuh", "D. Dawud"],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Muslims face the direction of _________ when praying.",
+    "options": ["A. Jerusalem", "B. Makkah", "C. Madinah", "D. East"],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "The Islamic declaration of faith ('There is no god but Allah and Muhammad is His messenger') is called:",
+    "options": ["A. Salat", "B. Shahada", "C. Tasbih", "D. Tawbah"],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "The study of the rules governing Quranic recitation is called:",
+    "options": ["A. Aqeedah", "B. Fiqh", "C. Tajweed", "D. Tafsir"],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Which is the longest chapter (Surah) in the Quran?",
+    "options": ["A. Al-Imran", "B. Al-Baqarah", "C. An-Nisa", "D. Al-Maidah"],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "The ritual purification with water before prayer is called:",
+    "options": ["A. Ghusl", "B. Tayammum", "C. Wudu", "D. Istinja"],
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "question": "Which prophet is associated with leading the Israelites out of Egypt?",
+    "options": ["A. Ibrahim", "B. Musa", "C. Dawud", "D. Sulayman"],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "The Islamic term for the concept of monotheism (belief in one God) is:",
+    "options": ["A. Shirk", "B. Iman", "C. Tawheed", "D. Ihsan"],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "The Prophet Muhammad (SAW) died in the year:",
+    "options": ["A. 610 CE", "B. 622 CE", "C. 632 CE", "D. 640 CE"],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "The Islamic concept of Jihad primarily means:",
+    "options": ["A. Holy war against non-Muslims", "B. Striving or struggling in the way of Allah", "C. Military conquest", "D. Protection of Muslim lands"],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Which angel is responsible for delivering Allah's revelations to the prophets?",
+    "options": ["A. Mikail", "B. Israfil", "C. Jibreel (Gabriel)", "D. Azrael"],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "The Arabic term for the mosque where Friday prayer is held is:",
+    "options": ["A. Masjid", "B. Masjid al-Jumu'ah", "C. Madrasa", "D. Zawiya"],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "The city of Madinah was previously known as:",
+    "options": ["A. Ta'if", "B. Yathrib", "C. Khaybar", "D. Hijaz"],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "The concept of 'Tawbah' in Islam refers to:",
+    "options": ["A. Prayer", "B. Fasting", "C. Repentance and turning back to Allah", "D. Pilgrimage"],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "How many surahs (chapters) are in the Holy Quran?",
+    "options": ["A. 99", "B. 110", "C. 114", "D. 120"],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "The Usman Dan Fodio jihad in Northern Nigeria led to the establishment of the:",
+    "options": ["A. Kanem-Bornu Empire", "B. Oyo Empire", "C. Sokoto Caliphate", "D. Hausa States"],
+    "answer": "C"
+  }
+]

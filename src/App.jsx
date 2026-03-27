@@ -8,11 +8,17 @@ import './styles/global.css';
 
 // Dynamic import helpers
 const QUESTION_LOADERS = {
-  physics:     () => import('./data/physics.json'),
-  chemistry:   () => import('./data/chemistry.json'),
-  biology:     () => import('./data/biology.json'),
-  mathematics: () => import('./data/mathematics.json'),
-  english:     () => import('./data/english.json'),
+  // Science
+  physics:        () => import('./data/physics.json'),
+  chemistry:      () => import('./data/chemistry.json'),
+  biology:        () => import('./data/biology.json'),
+  mathematics:    () => import('./data/mathematics.json'),
+  english:        () => import('./data/english.json'),
+  // Art
+  literature:     () => import('./data/literature.json'),
+  government:     () => import('./data/government.json'),
+  history:        () => import('./data/history.json'),
+  islamicstudies: () => import('./data/islamicstudies.json'),
 };
 
 export default function App() {
@@ -25,11 +31,13 @@ export default function App() {
 
   const handleStart = useCallback(async ({ name, subject: sub }) => {
     setLoading(true);
+    // Strip the section prefix (e.g. 'sci-physics' → 'physics', 'art-government' → 'government')
+    const subjectKey = sub.replace(/^(sci|art)-/, '');
     try {
-      const mod = await QUESTION_LOADERS[sub]();
+      const mod = await QUESTION_LOADERS[subjectKey]();
       setQuestions(mod.default);
       setStudentName(name);
-      setSubject(sub);
+      setSubject(subjectKey);
       setResult(null);
       setScreen('exam');
     } catch (err) {

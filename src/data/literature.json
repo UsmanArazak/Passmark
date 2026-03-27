@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "The term 'literature' is derived from the Latin word 'littera' which means:",
+    "options": ["A. Writing", "B. Letter", "C. Book", "D. Story"],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a genre of literature?",
+    "options": ["A. Poetry", "B. Drama", "C. Photography", "D. Prose"],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "A soliloquy in drama is when a character:",
+    "options": ["A. Speaks to another character", "B. Speaks to the audience directly", "C. Speaks alone revealing inner thoughts", "D. Sings a song"],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Which literary device involves giving human qualities to non-human things?",
+    "options": ["A. Simile", "B. Metaphor", "C. Personification", "D. Alliteration"],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "The protagonist of a story is:",
+    "options": ["A. The villain", "B. The main character", "C. The narrator", "D. The author"],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "A haiku is a form of poetry that originated from:",
+    "options": ["A. China", "B. Korea", "C. Japan", "D. India"],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "The climax of a story refers to:",
+    "options": ["A. The beginning of the story", "B. The point of highest tension", "C. The resolution of the conflict", "D. The introduction of characters"],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Which of these is an example of an epic poem in African literature?",
+    "options": ["A. The Waste Land", "B. Sundiata", "C. Paradise Lost", "D. The Iliad"],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "An 'aside' in drama is:",
+    "options": ["A. A stage direction", "B. A remark made to the audience not heard by other characters", "C. A scene break", "D. Background music"],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "The narrative technique where the story is told by a character within the story is called:",
+    "options": ["A. Third-person omniscient", "B. Third-person limited", "C. First-person narration", "D. Omniscient narration"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following best defines 'irony'?",
+    "options": ["A. Saying exactly what you mean", "B. A contrast between what is expected and what occurs", "C. Exaggerating for emphasis", "D. Describing something using comparison"],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Chinua Achebe's novel 'Things Fall Apart' is set in which fictional Igbo village?",
+    "options": ["A. Aro", "B. Umuoha", "C. Umuaro", "D. Umuofia"],
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "question": "A sonnet traditionally consists of how many lines?",
+    "options": ["A. 10", "B. 12", "C. 14", "D. 16"],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "The term 'catharsis' as used by Aristotle refers to:",
+    "options": ["A. The build-up of tension", "B. Emotional purging experienced by an audience", "C. The fall of the hero", "D. The chorus in Greek drama"],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "In Wole Soyinka's 'The Lion and the Jewel', Baroka is best described as:",
+    "options": ["A. A young, modernised chief", "B. A cunning traditionalist Bale", "C. A poor farmer", "D. A teacher from the city"],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "What is the theme of Ola Rotimi's 'The Gods Are Not to Blame'?",
+    "options": ["A. Love and betrayal", "B. Fate and free will", "C. War and colonialism", "D. Politics and corruption"],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "The use of hints or clues in a narrative to suggest what will happen later is called:",
+    "options": ["A. Flashback", "B. Foreshadowing", "C. Allegory", "D. Symbolism"],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "Which literary term describes the central message or insight of a literary work?",
+    "options": ["A. Plot", "B. Theme", "C. Setting", "D. Conflict"],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "An 'allegory' is a story that:",
+    "options": ["A. Has no moral lesson", "B. Uses symbolic figures to convey hidden meaning", "C. Is told in verse", "D. Is based on real events"],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "The repetition of consonant sounds at the beginning of words is called:",
+    "options": ["A. Assonance", "B. Onomatopoeia", "C. Alliteration", "D. Rhyme"],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "A tragedy typically ends in:",
+    "options": ["A. A happy resolution", "B. Marriage", "C. The downfall or death of the protagonist", "D. Reconciliation"],
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "question": "'Arrow of God' was written by:",
+    "options": ["A. Wole Soyinka", "B. Cyprian Ekwensi", "C. Chinua Achebe", "D. Ama Ata Aidoo"],
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a prose work?",
+    "options": ["A. 'Death and the King's Horseman'", "B. 'Weep Not, Child'", "C. 'Anthem for Doomed Youth'", "D. 'The Rime of the Ancient Mariner'"],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "The character who opposes the protagonist is called the:",
+    "options": ["A. Narrator", "B. Foil", "C. Antagonist", "D. Anti-hero"],
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "question": "What is a 'motif' in literature?",
+    "options": ["A. A type of rhyme scheme", "B. A recurring element that has symbolic significance", "C. The author's point of view", "D. A summary of events"],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "The point of view from which God-like knowledge of all characters is used is known as:",
+    "options": ["A. First person", "B. Second person", "C. Third-person limited", "D. Third-person omniscient"],
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "question": "Which of these describes blank verse?",
+    "options": ["A. Poetry with no meter", "B. Unrhymed poetry in iambic pentameter", "C. Poetry with end rhyme only", "D. Free verse with stanzas"],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Which playwright wrote 'A Raisin in the Sun'?",
+    "options": ["A. Arthur Miller", "B. Tennessee Williams", "C. Lorraine Hansberry", "D. August Wilson"],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "'Danda' by Nkem Nwankwo is classified as:",
+    "options": ["A. A tragedy", "B. A comedy", "C. A political satire", "D. An epic"],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "The resolution of the central conflict in a narrative is called the:",
+    "options": ["A. Exposition", "B. Rising action", "C. Climax", "D. Denouement"],
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a significant feature of oral literature?",
+    "options": ["A. It is always written down", "B. It relies on printing press", "C. It is transmitted by word of mouth", "D. It requires formal education"],
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "The use of words that imitate natural sounds is called:",
+    "options": ["A. Alliteration", "B. Assonance", "C. Onomatopoeia", "D. Euphemism"],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "A 'foil' character is used in literature to:",
+    "options": ["A. Replace the protagonist", "B. Highlight the traits of another character by contrast", "C. Resolve the conflict", "D. Provide comic relief"],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "In Achebe's 'Things Fall Apart', Unoka is Okonkwo's:",
+    "options": ["A. Rival", "B. Best friend", "C. Father", "D. Son"],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is an example of a simile?",
+    "options": ["A. 'The wind howled'", "B. 'She is a lion'", "C. 'He ran like the wind'", "D. 'The stars danced'"],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "J.P. Clark's 'Song of a Goat' is a:",
+    "options": ["A. Novel", "B. Epic poem", "C. Play", "D. Short story"],
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "The attitude of a writer toward his or her subject matter is known as:",
+    "options": ["A. Mood", "B. Tone", "C. Voice", "D. Style"],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following best describes 'free verse'?",
+    "options": ["A. Poetry that follows a strict rhyme scheme", "B. Poetry with no fixed meter or rhyme scheme", "C. Poetry written in Latin", "D. Poetry with exactly 10 syllables per line"],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "The event or series of events that sets a story in motion is called:",
+    "options": ["A. The denouement", "B. The inciting incident", "C. The climax", "D. The falling action"],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "In literature, 'satire' is used primarily to:",
+    "options": ["A. Tell a love story", "B. Criticize or mock social vices using humour", "C. Describe nature", "D. Narrate historical events"],
+    "answer": "B"
+  }
+]

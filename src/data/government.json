@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "The study of how people are governed and how power is distributed in society is called:",
+    "options": ["A. Sociology", "B. Political Science (Government)", "C. Economics", "D. History"],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best defines 'sovereignty'?",
+    "options": ["A. The ability to tax citizens", "B. Supreme and independent authority of a state", "C. A type of government", "D. The right to vote"],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "A federal system of government is one in which:",
+    "options": ["A. All power is concentrated at the centre", "B. Power is shared between central and component governments", "C. The military controls the state", "D. One party rules the state"],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "The doctrine of separation of powers was propounded by:",
+    "options": ["A. John Locke", "B. Jean-Jacques Rousseau", "C. Baron de Montesquieu", "D. Thomas Hobbes"],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Which arm of government is responsible for making laws?",
+    "options": ["A. Executive", "B. Judiciary", "C. Legislature", "D. Civil service"],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Nigeria became a republic for the first time in:",
+    "options": ["A. 1960", "B. 1963", "C. 1966", "D. 1979"],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "The concept of 'rule of law' was popularised by:",
+    "options": ["A. Baron de Montesquieu", "B. A.V. Dicey", "C. John Stuart Mill", "D. Karl Marx"],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "In a presidential system of government, the executive is:",
+    "options": ["A. Responsible to the legislature", "B. Appointed by the judiciary", "C. Separate from and independent of the legislature", "D. Elected by the legislature"],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT a characteristic of democracy?",
+    "options": ["A. Free and fair elections", "B. Fundamental human rights", "C. Single-party rule", "D. Rule of law"],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "The first military coup in Nigeria occurred in:",
+    "options": ["A. 1960", "B. 1963", "C. January 1966", "D. July 1966"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "A unicameral legislature is one with:",
+    "options": ["A. Two chambers", "B. Three chambers", "C. One chamber", "D. No chambers"],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "The main function of the judiciary is to:",
+    "options": ["A. Make laws", "B. Implement policies", "C. Interpret and apply the law", "D. Collect taxes"],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Pressure groups differ from political parties primarily because pressure groups:",
+    "options": ["A. Operate outside the law", "B. Do not seek to win political power directly", "C. Have no members", "D. Are funded by government"],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Which type of constitution is said to be 'rigid'?",
+    "options": ["A. One that can be amended by a simple majority", "B. One that requires a special procedure to amend", "C. One that is unwritten", "D. One that grants unlimited power to the executive"],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "The Willink Commission of 1958 was set up to address:",
+    "options": ["A. Electoral malpractice", "B. Fears of minorities in Nigeria", "C. Economic disparity", "D. Military intervention"],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Proportional representation is a type of:",
+    "options": ["A. Judicial review", "B. Electoral system", "C. Constitutional amendment", "D. Civil service reform"],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a feature of a unitary state?",
+    "options": ["A. Power is shared between central and regional governments", "B. The central government is supreme", "C. Each region has its own constitution", "D. There is no central authority"],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "The principle of 'checks and balances' ensures that:",
+    "options": ["A. All arms of government are equal in every way", "B. No arm of government becomes too powerful", "C. The judiciary controls the legislature", "D. The executive approves all laws"],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "The Economic Community of West African States (ECOWAS) was established in:",
+    "options": ["A. 1960", "B. 1975", "C. 1980", "D. 1963"],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "A constitution can be described as:",
+    "options": ["A. A set of rules governing a social club", "B. The supreme law of the land", "C. A parliamentary bill", "D. An executive order"],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is a merit of the presidential system of government?",
+    "options": ["A. It leads to gridlock between the executive and legislature", "B. The executive is stable as it cannot be easily removed", "C. It concentrates too much power in one person", "D. It is the same as parliamentary system"],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "The concept of 'judicial independence' means:",
+    "options": ["A. Judges can make any decision they like", "B. The judiciary is free from control by other arms of government", "C. Judges are elected by the people", "D. The judiciary funds itself"],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Citizenship can be acquired through all of the following EXCEPT:",
+    "options": ["A. Birth", "B. Registration", "C. Detention", "D. Naturalisation"],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "The United Nations Organisation (UNO) was established in:",
+    "options": ["A. 1919", "B. 1939", "C. 1945", "D. 1948"],
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "question": "In Nigeria, which body is responsible for conducting elections?",
+    "options": ["A. EFCC", "B. INEC", "C. NPC", "D. NDDC"],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Public opinion is best described as:",
+    "options": ["A. The view of the government on an issue", "B. The collective attitude of citizens on public matters", "C. The opinion of the press only", "D. A formal vote in parliament"],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is a fundamental human right in Nigeria's constitution?",
+    "options": ["A. Right to free housing", "B. Right to life", "C. Right to free food", "D. Right to free education at all levels"],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "The Amalgamation of Northern and Southern Nigeria took place in:",
+    "options": ["A. 1900", "B. 1906", "C. 1914", "D. 1922"],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Federalism in Nigeria was introduced under the:",
+    "options": ["A. Clifford Constitution of 1922", "B. Richards Constitution of 1946", "C. Macpherson Constitution of 1951", "D. Lyttleton Constitution of 1954"],
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "question": "A political party is BEST defined as:",
+    "options": ["A. A group of people with common interests who seek to control government", "B. A professional association", "C. A military organisation", "D. A religious body"],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "The act of bribing voters or using force to influence their votes is called:",
+    "options": ["A. Propaganda", "B. Electoral malpractice", "C. Lobbying", "D. Boycott"],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "The head of the civil service in Nigeria is known as the:",
+    "options": ["A. Attorney General", "B. Solicitor General", "C. Head of Service", "D. Director General"],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is NOT a function of the legislature?",
+    "options": ["A. Law making", "B. Appropriation of funds", "C. Appointment of judges", "D. Oversight of the executive"],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "The process by which new citizens are admitted into a country is called:",
+    "options": ["A. Migration", "B. Deportation", "C. Naturalisation", "D. Emigration"],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "The African Union (AU) replaced which organisation?",
+    "options": ["A. The League of Nations", "B. The Non-Aligned Movement", "C. The Organisation of African Unity (OAU)", "D. ECOWAS"],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "Delegated legislation refers to:",
+    "options": ["A. Laws made solely by the legislature", "B. Laws made by subordinate bodies under authority granted by the legislature", "C. Constitutional amendments", "D. International treaties"],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "The power of the court to declare an act of government unconstitutional is called:",
+    "options": ["A. Judicial review", "B. Habeas corpus", "C. Mandamus", "D. Certiorari"],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following countries operates a parliamentary system of government?",
+    "options": ["A. USA", "B. Nigeria", "C. France", "D. United Kingdom"],
+    "answer": "D"
+  },
+  {
+    "id": 39,
+    "question": "A confederation differs from a federation in that in a confederation:",
+    "options": ["A. The central government is supreme", "B. Member states surrender all sovereignty to the centre", "C. Member states retain their sovereignty and the central authority is weak", "D. There is no central government"],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "The principle that states that no person should be punished except for a breach of a known law is part of:",
+    "options": ["A. Federalism", "B. Rule of law", "C. Separation of powers", "D. Parliamentary sovereignty"],
+    "answer": "B"
+  }
+]

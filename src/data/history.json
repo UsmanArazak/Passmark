@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first indigenous Governor-General of Nigeria?",
+    "options": ["A. Tafawa Balewa", "B. Nnamdi Azikiwe", "C. Obafemi Awolowo", "D. Ahmadu Bello"],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "The Berlin Conference of 1884–1885 was convened to:",
+    "options": ["A. End World War I", "B. Partition Africa among European powers", "C. Create the League of Nations", "D. Abolish the slave trade"],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "The Magna Carta of 1215 was signed by:",
+    "options": ["A. King Henry VIII", "B. King John of England", "C. King Richard I", "D. King Edward I"],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "The ancient city of Benin is located in present-day:",
+    "options": ["A. Ghana", "B. Togo", "C. Nigeria", "D. Republic of Benin"],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following was a major cause of the First World War?",
+    "options": ["A. The assassination of Archduke Franz Ferdinand", "B. The invasion of Poland", "C. The bombing of Pearl Harbor", "D. The Treaty of Versailles"],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "The Sokoto Caliphate was founded by:",
+    "options": ["A. Muhammadu Bello", "B. Dan Fodio's son", "C. Usman Dan Fodio", "D. Al-Kanemi"],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Nigeria gained independence from Britain on:",
+    "options": ["A. 1 October 1960", "B. 1 January 1960", "C. 1 October 1963", "D. 31 December 1960"],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "The slave trade was officially abolished in the British Empire in:",
+    "options": ["A. 1776", "B. 1807", "C. 1833", "D. 1865"],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "The Egyptian civilisation developed around which river?",
+    "options": ["A. Tigris", "B. Congo", "C. Nile", "D. Niger"],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Which African country was never colonised by a European power?",
+    "options": ["A. Ghana", "B. Kenya", "C. Ethiopia", "D. Sierra Leone"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "The French Revolution began in:",
+    "options": ["A. 1776", "B. 1789", "C. 1799", "D. 1815"],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "The kingdom of Dahomey is in present-day:",
+    "options": ["A. Nigeria", "B. Ghana", "C. Republic of Benin", "D. Togo"],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Who led the Zulu nation during the Anglo-Zulu War of 1879?",
+    "options": ["A. Shaka", "B. Dingane", "C. Cetshwayo", "D. Mpande"],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "The League of Nations was established after:",
+    "options": ["A. World War II", "B. The Napoleonic Wars", "C. World War I", "D. The Cold War"],
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "The Biafran Civil War in Nigeria lasted from:",
+    "options": ["A. 1960–1963", "B. 1966–1969", "C. 1967–1970", "D. 1970–1975"],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Who was the first Prime Minister of independent Nigeria?",
+    "options": ["A. Obafemi Awolowo", "B. Nnamdi Azikiwe", "C. Abubakar Tafawa Balewa", "D. Ahmadu Bello"],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "The ancient Empire of Ghana was known especially for its trade in:",
+    "options": ["A. Ivory and slaves", "B. Salt and gold", "C. Spices and silk", "D. Iron and copper"],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "The Second World War ended in:",
+    "options": ["A. 1943", "B. 1944", "C. 1945", "D. 1946"],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "The term 'imperialism' refers to:",
+    "options": ["A. A form of democracy", "B. Extension of a nation's power over other territories", "C. Economic cooperation between states", "D. A type of socialism"],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Who invented the printing press in Europe?",
+    "options": ["A. Isaac Newton", "B. Johannes Gutenberg", "C. Galileo Galilei", "D. Leonardo da Vinci"],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "The Indirect Rule policy in Nigeria was introduced by:",
+    "options": ["A. Lord Lugard", "B. Ralph Moor", "C. Walter Egerton", "D. Hugh Clifford"],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Which Nigerian nationalist organisation was founded by Herbert Macaulay in 1923?",
+    "options": ["A. NCNC", "B. Action Group", "C. Nigerian National Democratic Party (NNDP)", "D. NPC"],
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "The Atlantic slave trade primarily transported enslaved people to:",
+    "options": ["A. Europe and Asia", "B. The Americas", "C. Australia", "D. North Africa"],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "The Renaissance period in European history refers to:",
+    "options": ["A. The period of industrial revolution", "B. A cultural rebirth in arts and learning from 14th–17th century", "C. The period of religious wars", "D. The age of exploration only"],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Which empire is associated with Mansa Musa and his legendary pilgrimage to Mecca?",
+    "options": ["A. Songhai", "B. Ghana", "C. Mali", "D. Kanem-Bornu"],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "The American Declaration of Independence was signed in:",
+    "options": ["A. 1774", "B. 1776", "C. 1783", "D. 1789"],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "The Lugard Amalgamation joined Northern and Southern Nigeria in:",
+    "options": ["A. 1900", "B. 1906", "C. 1914", "D. 1920"],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Who was known as the 'Father of the Nation' in Kenya?",
+    "options": ["A. Julius Nyerere", "B. Kwame Nkrumah", "C. Jomo Kenyatta", "D. Tom Mboya"],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Apartheid was a system of racial segregation practiced in:",
+    "options": ["A. Zimbabwe", "B. Kenya", "C. South Africa", "D. Mozambique"],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "The Industrial Revolution began in:",
+    "options": ["A. France", "B. Germany", "C. United States", "D. Britain"],
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "question": "Which pre-colonial West African state is associated with elaborate brass casting?",
+    "options": ["A. Oyo Empire", "B. Benin Kingdom", "C. Kanem-Bornu", "D. Dahomey"],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "The Cold War was primarily between:",
+    "options": ["A. USA and China", "B. USSR and China", "C. USA and USSR", "D. UK and France"],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "The 'Scramble for Africa' refers to:",
+    "options": ["A. Early African migrations", "B. The rapid colonisation of Africa by European powers in the late 19th century", "C. Intra-African wars", "D. African resistance to the Atlantic slave trade"],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "Kwame Nkrumah led which country to independence in 1957?",
+    "options": ["A. Nigeria", "B. Kenya", "C. Ghana", "D. Senegal"],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "The first university in Nigeria was established in:",
+    "options": ["A. Lagos (1948)", "B. Ibadan (1948)", "C. Zaria (1950)", "D. Benin (1970)"],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "The 'Aba Women's Riot' of 1929 in Nigeria was a protest against:",
+    "options": ["A. Colonial education policies", "B. Proposed taxation of women", "C. Forced labour", "D. Land seizure by colonial authorities"],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Which treaty ended the First World War?",
+    "options": ["A. Treaty of Westphalia", "B. Treaty of Paris", "C. Treaty of Versailles", "D. Treaty of Utrecht"],
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "question": "The Oyo Empire derived much of its military strength from:",
+    "options": ["A. Naval power", "B. Infantry soldiers", "C. Cavalry (horse soldiers)", "D. Mercenaries"],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "Who wrote 'The Wretched of the Earth', a major text on anti-colonialism?",
+    "options": ["A. Chinua Achebe", "B. Frantz Fanon", "C. W.E.B. Du Bois", "D. Leopold Senghor"],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Nigeria's Second Republic lasted from:",
+    "options": ["A. 1963–1966", "B. 1966–1975", "C. 1979–1983", "D. 1993–1998"],
+    "answer": "C"
+  }
+]

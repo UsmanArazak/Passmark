@@ -37,7 +37,18 @@ export default function ExamPage({ studentName, subject, questions: rawQuestions
   const answered  = Object.keys(exam.answers).length;
   const flaggedC  = exam.flagged.size;
 
-  const subjectLabel = subject.charAt(0).toUpperCase() + subject.slice(1).replace('english', 'English Language');
+  const SUBJECT_LABELS = {
+    physics:        'Physics',
+    chemistry:      'Chemistry',
+    biology:        'Biology',
+    mathematics:    'Mathematics',
+    english:        'English Language',
+    literature:     'Literature in English',
+    government:     'Government',
+    history:        'History',
+    islamicstudies: 'Islamic Studies',
+  };
+  const subjectLabel = SUBJECT_LABELS[subject] || (subject.charAt(0).toUpperCase() + subject.slice(1));
 
   return (
     <div className="exam-page">

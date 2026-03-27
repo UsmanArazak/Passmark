@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import '../styles/home.css';
 
-const SUBJECTS = [
+const SCIENCE_SUBJECTS = [
   { id: 'physics',     name: 'Physics',          icon: '⚛️',  meta: '40 Questions · 30 min' },
   { id: 'chemistry',   name: 'Chemistry',         icon: '🧪',  meta: '40 Questions · 30 min' },
   { id: 'biology',     name: 'Biology',           icon: '🧬',  meta: '40 Questions · 30 min' },
@@ -9,9 +9,17 @@ const SUBJECTS = [
   { id: 'english',     name: 'English Language',  icon: '📖',  meta: '40 Questions · 30 min' },
 ];
 
+const ART_SUBJECTS = [
+  { id: 'literature',     name: 'Literature',       icon: '📜',  meta: '40 Questions · 30 min' },
+  { id: 'government',     name: 'Government',       icon: '🏛️',  meta: '40 Questions · 30 min' },
+  { id: 'history',        name: 'History',          icon: '🗺️',  meta: '40 Questions · 30 min' },
+  { id: 'islamicstudies', name: 'Islamic Studies',  icon: '🌙',  meta: '40 Questions · 30 min' },
+  { id: 'english',        name: 'English Language', icon: '📖',  meta: '40 Questions · 30 min' },
+];
+
 export default function HomePage({ onStart, onViewHistory }) {
-  const [name, setName]         = useState('');
-  const [subject, setSubject]   = useState('');
+  const [name, setName]           = useState('');
+  const [subject, setSubject]     = useState('');
   const [nameError, setNameError] = useState('');
   const [subjectError, setSubjectError] = useState('');
 
@@ -80,24 +88,56 @@ export default function HomePage({ onStart, onViewHistory }) {
 
           <hr className="home-divider" />
 
-          {/* Subject */}
+          {/* Subject sections */}
           <div style={{ marginBottom: '28px' }}>
             <p className="form-section-title">Select a Subject</p>
-            <div className="subject-grid">
-              {SUBJECTS.map((s) => (
-                <button
-                  key={s.id}
-                  id={`subject-${s.id}`}
-                  className={`subject-card${subject === s.id ? ' selected' : ''}`}
-                  onClick={() => { setSubject(s.id); setSubjectError(''); }}
-                  aria-pressed={subject === s.id}
-                >
-                  <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
-                  <div className="subject-card-name">{s.name}</div>
-                  <div className="subject-card-meta">{s.meta}</div>
-                </button>
-              ))}
+
+            {/* Science Section */}
+            <div className="subject-section">
+              <div className="subject-section-header science">
+                <span className="subject-section-icon">🔬</span>
+                <span className="subject-section-label">Science</span>
+              </div>
+              <div className="subject-grid">
+                {SCIENCE_SUBJECTS.map((s) => (
+                  <button
+                    key={`sci-${s.id}`}
+                    id={`subject-sci-${s.id}`}
+                    className={`subject-card${subject === `sci-${s.id}` ? ' selected' : ''}`}
+                    onClick={() => { setSubject(`sci-${s.id}`); setSubjectError(''); }}
+                    aria-pressed={subject === `sci-${s.id}`}
+                  >
+                    <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
+                    <div className="subject-card-name">{s.name}</div>
+                    <div className="subject-card-meta">{s.meta}</div>
+                  </button>
+                ))}
+              </div>
             </div>
+
+            {/* Art Section */}
+            <div className="subject-section">
+              <div className="subject-section-header art">
+                <span className="subject-section-icon">🎨</span>
+                <span className="subject-section-label">Art</span>
+              </div>
+              <div className="subject-grid">
+                {ART_SUBJECTS.map((s) => (
+                  <button
+                    key={`art-${s.id}`}
+                    id={`subject-art-${s.id}`}
+                    className={`subject-card art-card${subject === `art-${s.id}` ? ' selected art-selected' : ''}`}
+                    onClick={() => { setSubject(`art-${s.id}`); setSubjectError(''); }}
+                    aria-pressed={subject === `art-${s.id}`}
+                  >
+                    <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
+                    <div className="subject-card-name">{s.name}</div>
+                    <div className="subject-card-meta">{s.meta}</div>
+                  </button>
+                ))}
+              </div>
+            </div>
+
             {subjectError && <p className="form-error" role="alert">{subjectError}</p>}
           </div>
 
