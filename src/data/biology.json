@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "question": "Photosynthesis takes place in which organelle of the plant cell?",
+    "options": [
+      "A. Mitochondria",
+      "B. Nucleus",
+      "C. Chloroplast",
+      "D. Ribosome"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a characteristic of living organisms?",
+    "options": [
+      "A. Nutrition",
+      "B. Respiration",
+      "C. Crystallisation",
+      "D. Reproduction"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "The basic unit of life is the:",
+    "options": [
+      "A. Organ",
+      "B. Tissue",
+      "C. Cell",
+      "D. Organism"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "The process by which green plants manufacture food using sunlight is called:",
+    "options": [
+      "A. Respiration",
+      "B. Transpiration",
+      "C. Photosynthesis",
+      "D. Digestion"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Which blood group is the universal donor?",
+    "options": [
+      "A. A",
+      "B. B",
+      "C. AB",
+      "D. O"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "question": "The male gamete in flowering plants is found in the:",
+    "options": [
+      "A. Ovule",
+      "B. Pistil",
+      "C. Pollen grain",
+      "D. Sepal"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following correctly describes the role of the kidney?",
+    "options": [
+      "A. Produces insulin to regulate blood sugar",
+      "B. Filters blood and excretes urea",
+      "C. Pumps blood around the body",
+      "D. Produces red blood cells"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Osmosis is the movement of water molecules from a region of:",
+    "options": [
+      "A. High solute concentration to low solute concentration",
+      "B. Low water potential to high water potential",
+      "C. High water potential to low water potential through a semi-permeable membrane",
+      "D. High temperature to low temperature"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a function of the liver?",
+    "options": [
+      "A. Producing antibodies",
+      "B. Filtering urea from the blood",
+      "C. Detoxification and production of bile",
+      "D. Controlling body temperature"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Evolution by natural selection was proposed by:",
+    "options": [
+      "A. Gregor Mendel",
+      "B. Louis Pasteur",
+      "C. Charles Darwin",
+      "D. Robert Hooke"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Which nutrient is the body's primary source of energy?",
+    "options": [
+      "A. Protein",
+      "B. Fat",
+      "C. Carbohydrate",
+      "D. Vitamins"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "The part of the brain responsible for controlling balance and coordination is the:",
+    "options": [
+      "A. Cerebrum",
+      "B. Medulla oblongata",
+      "C. Cerebellum",
+      "D. Hypothalamus"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Mendel's law of segregation states that:",
+    "options": [
+      "A. Two genes for the same trait are always identical.",
+      "B. Alleles for a trait separate during gamete formation.",
+      "C. Dominant alleles always mask recessive alleles.",
+      "D. Genes on the same chromosome are always inherited together."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Which vitamin is produced in the skin in the presence of sunlight?",
+    "options": [
+      "A. Vitamin A",
+      "B. Vitamin B12",
+      "C. Vitamin C",
+      "D. Vitamin D"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "question": "The site of protein synthesis in the cell is the:",
+    "options": [
+      "A. Nucleus",
+      "B. Golgi apparatus",
+      "C. Ribosome",
+      "D. Endoplasmic reticulum"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "In aerobic respiration, the final electron acceptor is:",
+    "options": [
+      "A. Carbon dioxide",
+      "B. Water",
+      "C. Oxygen",
+      "D. ATP"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following organisms is an example of a producer in a food chain?",
+    "options": [
+      "A. Grasshopper",
+      "B. Grass",
+      "C. Snake",
+      "D. Eagle"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "The hormone responsible for regulating blood sugar level is:",
+    "options": [
+      "A. Adrenaline",
+      "B. Thyroxine",
+      "C. Insulin",
+      "D. Oestrogen"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a sexually transmitted disease?",
+    "options": [
+      "A. Malaria",
+      "B. Tuberculosis",
+      "C. Gonorrhoea",
+      "D. Cholera"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "The process by which plants lose water through their leaves is called:",
+    "options": [
+      "A. Transpiration",
+      "B. Evaporation",
+      "C. Osmosis",
+      "D. Diffusion"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "The human genome project aimed to:",
+    "options": [
+      "A. Clone human beings",
+      "B. Map all the genes in human DNA",
+      "C. Develop vaccines for all diseases",
+      "D. Study the evolution of primates"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is the correct sequence of the feeding relationship?",
+    "options": [
+      "A. Consumer → Producer → Decomposer",
+      "B. Producer → Primary consumer → Secondary consumer",
+      "C. Decomposer → Producer → Consumer",
+      "D. Secondary consumer → Primary consumer → Producer"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "In humans, the number of chromosomes present in a somatic cell is:",
+    "options": [
+      "A. 23",
+      "B. 44",
+      "C. 46",
+      "D. 48"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following blood components is responsible for clotting?",
+    "options": [
+      "A. Red blood cells",
+      "B. White blood cells",
+      "C. Plasma",
+      "D. Platelets"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "Bacteria are classified as:",
+    "options": [
+      "A. Eukaryotes",
+      "B. Prokaryotes",
+      "C. Fungi",
+      "D. Protists"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a monocotyledonous plant?",
+    "options": [
+      "A. Mango",
+      "B. Pawpaw",
+      "C. Maize",
+      "D. Hibiscus"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "The role of decomposers in an ecosystem is to:",
+    "options": [
+      "A. Produce energy from sunlight",
+      "B. Consume primary producers",
+      "C. Break down dead organic matter, recycling nutrients",
+      "D. Transfer energy to herbivores"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Sickle cell anaemia is caused by:",
+    "options": [
+      "A. A viral infection",
+      "B. Deficiency of iron in the diet",
+      "C. A mutation in the haemoglobin gene",
+      "D. Destruction of red blood cells by malaria parasites"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is a function of the large intestine?",
+    "options": [
+      "A. Production of enzymes for digestion",
+      "B. Absorption of digested food into the bloodstream",
+      "C. Absorption of water and formation of faeces",
+      "D. Secretion of bile salts"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "The term 'biodiversity' refers to:",
+    "options": [
+      "A. The number of individuals in a population",
+      "B. The variety of living organisms in an ecosystem",
+      "C. The rate of evolution of species",
+      "D. The movement of organisms between habitats"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is an example of mutualism?",
+    "options": [
+      "A. Tapeworm in the intestine of a host",
+      "B. Barnacles on the skin of a whale",
+      "C. Nitrogen-fixing bacteria in root nodules of legumes",
+      "D. Lions feeding on a dead zebra"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "The part of the flower that receives pollen grains during pollination is the:",
+    "options": [
+      "A. Stigma",
+      "B. Style",
+      "C. Anther",
+      "D. Filament"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Mitosis results in:",
+    "options": [
+      "A. Two daughter cells, each with half the parent cell's chromosomes",
+      "B. Four daughter cells, each with the same number of chromosomes as the parent",
+      "C. Two daughter cells, each genetically identical to the parent cell",
+      "D. Four daughter cells, each genetically unique"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is the vector for malaria?",
+    "options": [
+      "A. Housefly",
+      "B. Tsetse fly",
+      "C. Female Anopheles mosquito",
+      "D. Sand fly"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "DNA replication is described as semi-conservative because:",
+    "options": [
+      "A. Only half the DNA is copied.",
+      "B. Each new DNA molecule contains one old strand and one new strand.",
+      "C. The process is slow and conservative.",
+      "D. DNA is conserved after each replication cycle."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is NOT a method of vegetative propagation?",
+    "options": [
+      "A. Budding",
+      "B. Grafting",
+      "C. Pollination",
+      "D. Cutting"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "The genetic material of a virus is surrounded by a protein coat called the:",
+    "options": [
+      "A. Capsid",
+      "B. Cell wall",
+      "C. Flagellum",
+      "D. Plasmid"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following organs produces bile?",
+    "options": [
+      "A. Pancreas",
+      "B. Stomach",
+      "C. Liver",
+      "D. Gall bladder"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "A population of organisms includes all individuals of:",
+    "options": [
+      "A. Different species in the same area",
+      "B. The same species in the same geographic area",
+      "C. All living organisms in an ecosystem",
+      "D. One organism and its offspring"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following correctly defines active transport?",
+    "options": [
+      "A. Movement of substances down a concentration gradient without energy",
+      "B. Movement of substances against a concentration gradient using energy (ATP)",
+      "C. Movement of water across a semi-permeable membrane",
+      "D. Random movement of molecules from high to low concentration"
+    ],
+    "answer": "B"
+  }
+]

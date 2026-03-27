@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes Newton's first law of motion?",
+    "options": [
+      "A. A body remains at rest or in uniform motion unless acted upon by a net external force.",
+      "B. Force equals mass times acceleration.",
+      "C. For every action there is an equal and opposite reaction.",
+      "D. Energy can neither be created nor destroyed."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "The SI unit of electric charge is the:",
+    "options": [
+      "A. Ampere",
+      "B. Volt",
+      "C. Coulomb",
+      "D. Ohm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "A body of mass 5 kg is moving with a velocity of 10 m/s. Its kinetic energy is:",
+    "options": [
+      "A. 50 J",
+      "B. 250 J",
+      "C. 500 J",
+      "D. 100 J"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Which type of wave requires a material medium for propagation?",
+    "options": [
+      "A. Radio waves",
+      "B. Light waves",
+      "C. Sound waves",
+      "D. X-rays"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "The phenomenon of total internal reflection occurs when light travels from a:",
+    "options": [
+      "A. Denser medium to a less dense medium at an angle greater than the critical angle.",
+      "B. Less dense medium to a denser medium.",
+      "C. Denser medium to a less dense medium at any angle.",
+      "D. Less dense medium to a denser medium at the critical angle."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "The half-life of a radioactive substance is 20 years. What fraction remains after 60 years?",
+    "options": [
+      "A. 1/4",
+      "B. 1/8",
+      "C. 1/16",
+      "D. 1/6"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT a vector quantity?",
+    "options": [
+      "A. Velocity",
+      "B. Acceleration",
+      "C. Speed",
+      "D. Force"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "The process by which a gas changes directly to a solid without passing through the liquid state is called:",
+    "options": [
+      "A. Condensation",
+      "B. Sublimation",
+      "C. Deposition",
+      "D. Evaporation"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "An object weighed 60 N on Earth. What is its mass? (g = 10 m/s²)",
+    "options": [
+      "A. 6 kg",
+      "B. 600 kg",
+      "C. 60 kg",
+      "D. 0.6 kg"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Which electromagnetic wave has the highest frequency?",
+    "options": [
+      "A. Microwaves",
+      "B. Infrared rays",
+      "C. Ultraviolet rays",
+      "D. Gamma rays"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "question": "Ohm's law states that the current through a conductor is:",
+    "options": [
+      "A. Directly proportional to the resistance",
+      "B. Inversely proportional to the voltage",
+      "C. Directly proportional to the voltage across it at constant temperature",
+      "D. Independent of temperature"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "The principle of conservation of momentum states that:",
+    "options": [
+      "A. Momentum is always zero in a closed system.",
+      "B. Total momentum of a system remains constant if no external force acts on it.",
+      "C. Momentum increases with velocity.",
+      "D. Momentum is conserved only in elastic collisions."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "A concave mirror with focal length 10 cm forms an image 30 cm from the mirror. How far is the object?",
+    "options": [
+      "A. 10 cm",
+      "B. 15 cm",
+      "C. 20 cm",
+      "D. 30 cm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "The work done on a body is measured by:",
+    "options": [
+      "A. Force × time",
+      "B. Force × distance in the direction of force",
+      "C. Mass × velocity",
+      "D. Power × mass"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Electrical resistance of a conductor increases with temperature because:",
+    "options": [
+      "A. Electrons move faster and collide less with lattice ions.",
+      "B. Lattice ions vibrate more, increasing electron-ion collisions.",
+      "C. The conductor expands, reducing resistance.",
+      "D. Electrons leave the conductor at higher temperatures."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following statements about pressure in liquids is correct?",
+    "options": [
+      "A. Pressure decreases with depth.",
+      "B. Pressure depends on the shape of the container.",
+      "C. Pressure at a given depth is the same in all directions.",
+      "D. Pressure is independent of the density of the liquid."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "The frequency of a wave is 500 Hz and its speed is 340 m/s. Its wavelength is:",
+    "options": [
+      "A. 0.68 m",
+      "B. 6.8 m",
+      "C. 0.068 m",
+      "D. 68 m"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "An alpha particle consists of:",
+    "options": [
+      "A. 2 protons and 2 neutrons",
+      "B. 1 proton and 2 neutrons",
+      "C. 2 protons and 1 neutron",
+      "D. 4 protons"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Which instrument is used to measure the electromotive force (EMF) of a cell?",
+    "options": [
+      "A. Ammeter",
+      "B. Ohmmeter",
+      "C. Potentiometer",
+      "D. Galvanometer"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "The process by which energy is transferred from a hotter body to a cooler body without a material medium is:",
+    "options": [
+      "A. Conduction",
+      "B. Convection",
+      "C. Radiation",
+      "D. Diffusion"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "A simple pendulum of length 1 m has a period of approximately:",
+    "options": [
+      "A. 1 s",
+      "B. 2 s",
+      "C. 3 s",
+      "D. 0.5 s"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "The image formed by a plane mirror is:",
+    "options": [
+      "A. Real and inverted",
+      "B. Virtual and upright",
+      "C. Real and upright",
+      "D. Virtual and inverted"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a good conductor of electricity?",
+    "options": [
+      "A. Rubber",
+      "B. Glass",
+      "C. Copper",
+      "D. Plastic"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "The turning effect of a force about a point is called:",
+    "options": [
+      "A. Work",
+      "B. Power",
+      "C. Torque",
+      "D. Impulse"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "question": "Boyle's law states that at constant temperature, the pressure of a fixed mass of gas is:",
+    "options": [
+      "A. Directly proportional to its volume",
+      "B. Inversely proportional to its volume",
+      "C. Independent of volume",
+      "D. Directly proportional to temperature"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Which type of lens is used to correct long-sightedness (hypermetropia)?",
+    "options": [
+      "A. Concave lens",
+      "B. Plane lens",
+      "C. Convex lens",
+      "D. Biconcave lens"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Transformer works on the principle of:",
+    "options": [
+      "A. Self inductance",
+      "B. Mutual inductance",
+      "C. Electromagnetic induction by motion",
+      "D. Electrostatic induction"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Two resistors of 4 Ω and 6 Ω are connected in parallel. The equivalent resistance is:",
+    "options": [
+      "A. 10 Ω",
+      "B. 2.4 Ω",
+      "C. 5 Ω",
+      "D. 12 Ω"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "The energy stored in a stretched spring is:",
+    "options": [
+      "A. Kinetic energy",
+      "B. Chemical energy",
+      "C. Elastic potential energy",
+      "D. Thermal energy"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is NOT part of the electromagnetic spectrum?",
+    "options": [
+      "A. X-rays",
+      "B. Ultrasonic waves",
+      "C. Gamma rays",
+      "D. Infrared waves"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "The photoelectric effect demonstrates that light has:",
+    "options": [
+      "A. Wave properties only",
+      "B. Particle properties only",
+      "C. Both wave and particle properties",
+      "D. Neither wave nor particle properties"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following has the LEAST penetrating power?",
+    "options": [
+      "A. Gamma rays",
+      "B. Beta particles",
+      "C. Alpha particles",
+      "D. X-rays"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "The ability of a body to return to its original shape after a deforming force is removed is called:",
+    "options": [
+      "A. Plasticity",
+      "B. Elasticity",
+      "C. Ductility",
+      "D. Hardness"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "An electric bulb rated 60 W is used for 4 hours. The energy consumed is:",
+    "options": [
+      "A. 0.24 kWh",
+      "B. 24 kWh",
+      "C. 2.4 kWh",
+      "D. 0.024 kWh"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Diffraction of waves occurs most noticeably when the wavelength of the wave is:",
+    "options": [
+      "A. Much smaller than the obstacle",
+      "B. Much larger than the obstacle",
+      "C. Comparable in size to the obstacle",
+      "D. Independent of the obstacle size"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "The terminal velocity of a falling object is reached when:",
+    "options": [
+      "A. Gravity equals upthrust only",
+      "B. Air resistance equals gravitational force",
+      "C. The object reaches the ground",
+      "D. Velocity becomes zero"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Which of the following correctly describes a step-down transformer?",
+    "options": [
+      "A. Secondary voltage > Primary voltage",
+      "B. Secondary turns > Primary turns",
+      "C. Secondary voltage < Primary voltage",
+      "D. Primary current > Secondary current"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "question": "Archimedes' principle states that an object submerged in a fluid experiences an upthrust equal to:",
+    "options": [
+      "A. The weight of the object",
+      "B. The weight of the fluid displaced",
+      "C. The volume of the object",
+      "D. The density of the fluid"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "The temperature at which the pressure of a gas would theoretically reach zero is called:",
+    "options": [
+      "A. Freezing point",
+      "B. Boiling point",
+      "C. Absolute zero",
+      "D. Dew point"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "question": "The force between two point charges is defined by:",
+    "options": [
+      "A. Faraday's law",
+      "B. Ohm's law",
+      "C. Coulomb's law",
+      "D. Newton's law of gravitation"
+    ],
+    "answer": "C"
+  }
+]

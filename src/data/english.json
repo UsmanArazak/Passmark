@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the word that is most nearly opposite in meaning to 'BENEVOLENT'.",
+    "options": [
+      "A. Generous",
+      "B. Malevolent",
+      "C. Indifferent",
+      "D. Tolerant"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Choose the word nearest in meaning to 'ELOQUENT'.",
+    "options": [
+      "A. Silent",
+      "B. Fluent and persuasive in speech",
+      "C. Angry",
+      "D. Confused"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Identify the correct sentence.",
+    "options": [
+      "A. She don't know the answer.",
+      "B. She doesn't know the answer.",
+      "C. She didn't knew the answer.",
+      "D. She don't knew the answer."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct form to complete the sentence: 'Neither the students nor the teacher __ present.'",
+    "options": [
+      "A. were",
+      "B. are",
+      "C. is",
+      "D. been"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "In the sentence: 'The man who built this house is an architect', the clause 'who built this house' is a:",
+    "options": [
+      "A. Noun clause",
+      "B. Adjectival clause",
+      "C. Adverbial clause",
+      "D. Main clause"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Choose the option that correctly fills the blank: 'They ____ the house before the rain started.'",
+    "options": [
+      "A. leave",
+      "B. left",
+      "C. had left",
+      "D. have left"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Identify the figure of speech in: 'The car groaned under the weight of the passengers.'",
+    "options": [
+      "A. Simile",
+      "B. Metaphor",
+      "C. Personification",
+      "D. Hyperbole"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following contains a dangling modifier?",
+    "options": [
+      "A. Walking to the shop, she met her friend.",
+      "B. Walking to the shop, the rain started.",
+      "C. She was walking to the shop when the rain started.",
+      "D. The rain started as she walked to the shop."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "The word 'EPHEMERAL' most nearly means:",
+    "options": [
+      "A. Lasting forever",
+      "B. Short-lived",
+      "C. Very large",
+      "D. Deeply spiritual"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Choose the option that has the correct stress pattern for the word 'PHOTOGRAPH'.",
+    "options": [
+      "A. pho-TO-graph",
+      "B. PHO-to-graph",
+      "C. pho-to-GRAPH",
+      "D. PHO-TO-graph"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Select the correct passive voice of: 'The driver hit the pedestrian.'",
+    "options": [
+      "A. The pedestrian was hit by the driver.",
+      "B. The pedestrian is hit by the driver.",
+      "C. The pedestrian had been hit by the driver.",
+      "D. The driver was hit by the pedestrian."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "The plural of 'phenomenon' is:",
+    "options": [
+      "A. Phenomenons",
+      "B. Phenomenas",
+      "C. Phenomena",
+      "D. Phenomenes"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "The rhetorical device used in 'To be or not to be' is:",
+    "options": [
+      "A. Alliteration",
+      "B. Antithesis",
+      "C. Onomatopoeia",
+      "D. Irony"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Choose the option that best explains the underlined idiom: 'He let the cat out of the bag.'",
+    "options": [
+      "A. He released an animal.",
+      "B. He revealed a secret.",
+      "C. He made a mistake.",
+      "D. He lost something valuable."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "In reported speech, 'He said, \"I am going to school\"' becomes:",
+    "options": [
+      "A. He said that he is going to school.",
+      "B. He said that he was going to school.",
+      "C. He said that he will go to school.",
+      "D. He said that he goes to school."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following sentences is correctly punctuated?",
+    "options": [
+      "A. After the long meeting we decided to adjourn.",
+      "B. After the long meeting, we decided to adjourn.",
+      "C. After the long meeting we decided, to adjourn.",
+      "D. After the long, meeting we decided to adjourn."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Choose the word that is correctly spelt:",
+    "options": [
+      "A. Accomodate",
+      "B. Accommodate",
+      "C. Acommodate",
+      "D. Acomodate"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "The word 'VERBOSE' means:",
+    "options": [
+      "A. Using too few words",
+      "B. Using too many words",
+      "C. Speaking clearly",
+      "D. Writing neatly"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Select the option that correctly completes the analogy: DOCTOR : HOSPITAL :: PILOT : ___",
+    "options": [
+      "A. Car",
+      "B. Cockpit",
+      "C. Train",
+      "D. Airport"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "question": "Identify the sentence with a misplaced modifier:",
+    "options": [
+      "A. She nearly ran five kilometres.",
+      "B. He almost missed the bus.",
+      "C. She found a necklace walking down the road.",
+      "D. They quickly left the building."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is an example of a compound sentence?",
+    "options": [
+      "A. Although it was raining, they went for a walk.",
+      "B. She sang beautifully.",
+      "C. He studied hard, and he passed his exams.",
+      "D. Swimming is a good form of exercise."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "question": "The word CACOPHONY refers to:",
+    "options": [
+      "A. A pleasant musical sound",
+      "B. A harsh, discordant mixture of sounds",
+      "C. A type of poetry",
+      "D. A style of painting"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Choose the option that best replaces the underlined word: 'The teacher's explanation was LUCID.'",
+    "options": [
+      "A. Confusing",
+      "B. Boring",
+      "C. Clear and easy to understand",
+      "D. Very long"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "The grammatical name for 'He is a very good student' is a:",
+    "options": [
+      "A. Simple sentence",
+      "B. Compound sentence",
+      "C. Complex sentence",
+      "D. Compound-complex sentence"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following words has the vowel sound /ɪ/ as in 'bit'?",
+    "options": [
+      "A. Seat",
+      "B. Fleet",
+      "C. Women",
+      "D. Keen"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Choose the appropriate preposition: 'She is good __ Mathematics.'",
+    "options": [
+      "A. in",
+      "B. at",
+      "C. for",
+      "D. with"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following sentences uses the word 'AFFECT' correctly?",
+    "options": [
+      "A. The affect of the drug was immediate.",
+      "B. What was the affect on the patient?",
+      "C. How did the weather affect the match?",
+      "D. The storm had a terrible affect on the village."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "The figure of speech in 'Life is a journey' is a:",
+    "options": [
+      "A. Simile",
+      "B. Alliteration",
+      "C. Metaphor",
+      "D. Oxymoron"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "'A group of fish' is called a:",
+    "options": [
+      "A. Pack",
+      "B. Flock",
+      "C. Shoal",
+      "D. Swarm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "Which tense is used in: 'By next year, she will have finished her degree'?",
+    "options": [
+      "A. Future simple",
+      "B. Future perfect",
+      "C. Future continuous",
+      "D. Present perfect"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "The antonym of 'PROFOUND' is:",
+    "options": [
+      "A. Deep",
+      "B. Trivial",
+      "C. Significant",
+      "D. Thoughtful"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Select the sentence with correct subject-verb agreement:",
+    "options": [
+      "A. The committee have reached a decision.",
+      "B. The committee has reached a decision.",
+      "C. The committee are reaching a decision.",
+      "D. The committee were reach a decision."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 33,
+    "question": "What is the mood of the verb in: 'If I were you, I would apologise'?",
+    "options": [
+      "A. Indicative",
+      "B. Imperative",
+      "C. Subjunctive",
+      "D. Infinitive"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "Choose the correct option to complete: 'He ran ___ the house.'",
+    "options": [
+      "A. though",
+      "B. throw",
+      "C. through",
+      "D. thought"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is NOT a coordinating conjunction?",
+    "options": [
+      "A. And",
+      "B. But",
+      "C. Because",
+      "D. Or"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "The study of the meaning of words and sentences is called:",
+    "options": [
+      "A. Phonology",
+      "B. Syntax",
+      "C. Semantics",
+      "D. Morphology"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "What is the comparative form of the adjective 'GOOD'?",
+    "options": [
+      "A. Gooder",
+      "B. More good",
+      "C. Better",
+      "D. Best"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "question": "Identify the type of pronoun in: 'She bought it herself.'",
+    "options": [
+      "A. Relative pronoun",
+      "B. Reflexive pronoun",
+      "C. Interrogative pronoun",
+      "D. Demonstrative pronoun"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "The literary term for a reference to a well-known person, place, or event is:",
+    "options": [
+      "A. Irony",
+      "B. Allusion",
+      "C. Allegory",
+      "D. Anaphora"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Choose the sentence with the correct use of the article:",
+    "options": [
+      "A. She is a honest woman.",
+      "B. She is an honest woman.",
+      "C. She is the honest woman.",
+      "D. She is honest woman."
+    ],
+    "answer": "B"
+  }
+]
