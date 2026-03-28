@@ -154,15 +154,20 @@
 .subject-section-header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  width: 100%;
   gap: 8px;
-  padding: 6px 12px;
+  padding: 12px 16px;
   border-radius: var(--radius);
   margin-bottom: 12px;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 700;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.05em;
   text-transform: uppercase;
+  cursor: pointer;
+  transition: background var(--transition), transform var(--transition);
 }
+.subject-section-header:active { transform: translateY(1px); }
 .subject-section-header.science {
   background: rgba(26, 107, 60, 0.08);
   color: var(--color-primary-dark);
@@ -173,8 +178,19 @@
   color: #944e0a;
   border-left: 3px solid #d97706;
 }
-.subject-section-icon { font-size: 1rem; }
-.subject-section-label { font-size: 0.8rem; }
+.subject-section-icon { font-size: 1.1rem; }
+.subject-section-label { font-size: 0.9rem; }
+.dropdown-caret {
+  font-size: 1rem;
+  color: inherit;
+  opacity: 0.7;
+  transition: transform var(--transition);
+}
+
+.dropdown-content {
+  margin-top: 10px;
+  margin-bottom: 16px;
+}
 
 .subject-grid {
   display: grid;
@@ -269,18 +285,7 @@
 }
 
 @media (max-width: 520px) {
-  .home-form-card { 
-    padding: 24px 20px 80px; /* Extra padding at bottom to clear the fixed button */
-  }
+  .home-form-card { padding: 24px 20px; }
   .subject-grid { grid-template-columns: 1fr 1fr; }
   .home-hero { padding: 48px 20px 64px; }
-  
-  .home-start-btn {
-    position: fixed;
-    bottom: 20px;
-    left: 20px;
-    width: calc(100% - 40px);
-    z-index: 100;
-    box-shadow: 0 8px 20px rgba(26, 107, 60, 0.3); /* Add shadow to float effect */
-  }
 }

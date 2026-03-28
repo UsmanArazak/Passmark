@@ -22,6 +22,7 @@ export default function HomePage({ onStart, onViewHistory }) {
   const [subject, setSubject]     = useState('');
   const [nameError, setNameError] = useState('');
   const [subjectError, setSubjectError] = useState('');
+  const [expandedSection, setExpandedSection] = useState('science');
 
   function handleStart() {
     let valid = true;
@@ -94,57 +95,84 @@ export default function HomePage({ onStart, onViewHistory }) {
 
             {/* Science Section */}
             <div className="subject-section">
-              <div className="subject-section-header science">
-                <span className="subject-section-icon">🔬</span>
-                <span className="subject-section-label">Science</span>
-              </div>
-              <div className="subject-grid">
-                {SCIENCE_SUBJECTS.map((s) => (
-                  <button
-                    key={`sci-${s.id}`}
-                    id={`subject-sci-${s.id}`}
-                    className={`subject-card${subject === `sci-${s.id}` ? ' selected' : ''}`}
-                    onClick={() => { setSubject(`sci-${s.id}`); setSubjectError(''); }}
-                    aria-pressed={subject === `sci-${s.id}`}
-                  >
-                    <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
-                    <div className="subject-card-name">{s.name}</div>
-                    <div className="subject-card-meta">{s.meta}</div>
+              <button 
+                type="button"
+                className="subject-section-header science dropdown-header"
+                onClick={() => setExpandedSection(prev => prev === 'science' ? null : 'science')}
+                aria-expanded={expandedSection === 'science'}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <span className="subject-section-icon">🔬</span>
+                  <span className="subject-section-label">Science</span>
+                </div>
+                <span className="dropdown-caret">{expandedSection === 'science' ? '▲' : '▼'}</span>
+              </button>
+              
+              {expandedSection === 'science' && (
+                <div className="dropdown-content animate-fadeIn">
+                  <div className="subject-grid">
+                    {SCIENCE_SUBJECTS.map((s) => (
+                      <button
+                        key={`sci-${s.id}`}
+                        id={`subject-sci-${s.id}`}
+                        className={`subject-card${subject === `sci-${s.id}` ? ' selected' : ''}`}
+                        onClick={() => { setSubject(`sci-${s.id}`); setSubjectError(''); }}
+                        aria-pressed={subject === `sci-${s.id}`}
+                      >
+                        <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
+                        <div className="subject-card-name">{s.name}</div>
+                        <div className="subject-card-meta">{s.meta}</div>
+                      </button>
+                    ))}
+                  </div>
+                  <button className="btn btn-primary home-start-btn" onClick={handleStart}>
+                    Start Science Exam →
                   </button>
-                ))}
-              </div>
+                </div>
+              )}
             </div>
 
             {/* Art Section */}
             <div className="subject-section">
-              <div className="subject-section-header art">
-                <span className="subject-section-icon">🎨</span>
-                <span className="subject-section-label">Art</span>
-              </div>
-              <div className="subject-grid">
-                {ART_SUBJECTS.map((s) => (
-                  <button
-                    key={`art-${s.id}`}
-                    id={`subject-art-${s.id}`}
-                    className={`subject-card art-card${subject === `art-${s.id}` ? ' selected art-selected' : ''}`}
-                    onClick={() => { setSubject(`art-${s.id}`); setSubjectError(''); }}
-                    aria-pressed={subject === `art-${s.id}`}
-                  >
-                    <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
-                    <div className="subject-card-name">{s.name}</div>
-                    <div className="subject-card-meta">{s.meta}</div>
+              <button 
+                type="button"
+                className="subject-section-header art dropdown-header"
+                onClick={() => setExpandedSection(prev => prev === 'art' ? null : 'art')}
+                aria-expanded={expandedSection === 'art'}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  <span className="subject-section-icon">🎨</span>
+                  <span className="subject-section-label">Art</span>
+                </div>
+                <span className="dropdown-caret">{expandedSection === 'art' ? '▲' : '▼'}</span>
+              </button>
+              
+              {expandedSection === 'art' && (
+                <div className="dropdown-content animate-fadeIn">
+                  <div className="subject-grid">
+                    {ART_SUBJECTS.map((s) => (
+                      <button
+                        key={`art-${s.id}`}
+                        id={`subject-art-${s.id}`}
+                        className={`subject-card art-card${subject === `art-${s.id}` ? ' selected art-selected' : ''}`}
+                        onClick={() => { setSubject(`art-${s.id}`); setSubjectError(''); }}
+                        aria-pressed={subject === `art-${s.id}`}
+                      >
+                        <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
+                        <div className="subject-card-name">{s.name}</div>
+                        <div className="subject-card-meta">{s.meta}</div>
+                      </button>
+                    ))}
+                  </div>
+                  <button className="btn btn-primary home-start-btn" onClick={handleStart}>
+                    Start Art Exam →
                   </button>
-                ))}
-              </div>
+                </div>
+              )}
             </div>
 
             {subjectError && <p className="form-error" role="alert">{subjectError}</p>}
           </div>
-
-          {/* Start */}
-          <button id="start-exam-btn" className="btn btn-primary home-start-btn" onClick={handleStart}>
-            Start Exam →
-          </button>
 
           {/* History link */}
           <button className="home-history-link" onClick={onViewHistory} id="view-history-btn">
