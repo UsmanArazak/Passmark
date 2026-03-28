@@ -91,85 +91,80 @@ export default function HomePage({ onStart, onViewHistory }) {
 
           {/* Subject sections */}
           <div style={{ marginBottom: '28px' }}>
-            <p className="form-section-title">Select a Subject</p>
+            <p className="form-section-title">Select a Category</p>
 
-            {/* Science Section */}
-            <div className="subject-section">
+            {/* Category Cards */}
+            <div className="category-cards-wrapper">
               <button 
                 type="button"
-                className="subject-section-header science dropdown-header"
+                className={`category-card science-category ${expandedSection === 'science' ? 'active' : ''}`}
                 onClick={() => setExpandedSection(prev => prev === 'science' ? null : 'science')}
                 aria-expanded={expandedSection === 'science'}
               >
-                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  <span className="subject-section-icon">🔬</span>
-                  <span className="subject-section-label">Science</span>
-                </div>
-                <span className="dropdown-caret">{expandedSection === 'science' ? '▲' : '▼'}</span>
+                <div className="category-icon">🔬</div>
+                <div className="category-name">Science</div>
+                <div className="category-caret">{expandedSection === 'science' ? '▲' : '▼'}</div>
               </button>
-              
-              {expandedSection === 'science' && (
-                <div className="dropdown-content animate-fadeIn">
-                  <div className="subject-grid">
-                    {SCIENCE_SUBJECTS.map((s) => (
-                      <button
-                        key={`sci-${s.id}`}
-                        id={`subject-sci-${s.id}`}
-                        className={`subject-card${subject === `sci-${s.id}` ? ' selected' : ''}`}
-                        onClick={() => { setSubject(`sci-${s.id}`); setSubjectError(''); }}
-                        aria-pressed={subject === `sci-${s.id}`}
-                      >
-                        <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
-                        <div className="subject-card-name">{s.name}</div>
-                        <div className="subject-card-meta">{s.meta}</div>
-                      </button>
-                    ))}
-                  </div>
-                  <button className="btn btn-primary home-start-btn" onClick={handleStart}>
-                    Start Science Exam →
-                  </button>
-                </div>
-              )}
-            </div>
 
-            {/* Art Section */}
-            <div className="subject-section">
               <button 
                 type="button"
-                className="subject-section-header art dropdown-header"
+                className={`category-card art-category ${expandedSection === 'art' ? 'active' : ''}`}
                 onClick={() => setExpandedSection(prev => prev === 'art' ? null : 'art')}
                 aria-expanded={expandedSection === 'art'}
               >
-                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  <span className="subject-section-icon">🎨</span>
-                  <span className="subject-section-label">Art</span>
-                </div>
-                <span className="dropdown-caret">{expandedSection === 'art' ? '▲' : '▼'}</span>
+                <div className="category-icon">🎨</div>
+                <div className="category-name">Art</div>
+                <div className="category-caret">{expandedSection === 'art' ? '▲' : '▼'}</div>
               </button>
-              
-              {expandedSection === 'art' && (
-                <div className="dropdown-content animate-fadeIn">
-                  <div className="subject-grid">
-                    {ART_SUBJECTS.map((s) => (
-                      <button
-                        key={`art-${s.id}`}
-                        id={`subject-art-${s.id}`}
-                        className={`subject-card art-card${subject === `art-${s.id}` ? ' selected art-selected' : ''}`}
-                        onClick={() => { setSubject(`art-${s.id}`); setSubjectError(''); }}
-                        aria-pressed={subject === `art-${s.id}`}
-                      >
-                        <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
-                        <div className="subject-card-name">{s.name}</div>
-                        <div className="subject-card-meta">{s.meta}</div>
-                      </button>
-                    ))}
-                  </div>
-                  <button className="btn btn-primary home-start-btn" onClick={handleStart}>
-                    Start Art Exam →
-                  </button>
-                </div>
-              )}
             </div>
+
+            {/* Science Dropdown Content */}
+            {expandedSection === 'science' && (
+              <div className="dropdown-content animate-slideDown category-expanded-container science-expanded">
+                <div className="subject-grid">
+                  {SCIENCE_SUBJECTS.map((s) => (
+                    <button
+                      key={`sci-${s.id}`}
+                      id={`subject-sci-${s.id}`}
+                      className={`subject-card${subject === `sci-${s.id}` ? ' selected' : ''}`}
+                      onClick={() => { setSubject(`sci-${s.id}`); setSubjectError(''); }}
+                      aria-pressed={subject === `sci-${s.id}`}
+                    >
+                      <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
+                      <div className="subject-card-name">{s.name}</div>
+                      <div className="subject-card-meta">{s.meta}</div>
+                    </button>
+                  ))}
+                </div>
+                <button className="btn btn-primary home-start-btn" onClick={handleStart}>
+                  Start Science Exam →
+                </button>
+              </div>
+            )}
+
+            {/* Art Dropdown Content */}
+            {expandedSection === 'art' && (
+              <div className="dropdown-content animate-slideDown category-expanded-container art-expanded">
+                <div className="subject-grid">
+                  {ART_SUBJECTS.map((s) => (
+                    <button
+                      key={`art-${s.id}`}
+                      id={`subject-art-${s.id}`}
+                      className={`subject-card art-card${subject === `art-${s.id}` ? ' selected art-selected' : ''}`}
+                      onClick={() => { setSubject(`art-${s.id}`); setSubjectError(''); }}
+                      aria-pressed={subject === `art-${s.id}`}
+                    >
+                      <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
+                      <div className="subject-card-name">{s.name}</div>
+                      <div className="subject-card-meta">{s.meta}</div>
+                    </button>
+                  ))}
+                </div>
+                <button className="btn btn-primary home-start-btn" onClick={handleStart} style={{ backgroundColor: '#d97706', borderColor: '#d97706', boxShadow: 'none' }}>
+                  Start Art Exam →
+                </button>
+              </div>
+            )}
 
             {subjectError && <p className="form-error" role="alert">{subjectError}</p>}
           </div>
