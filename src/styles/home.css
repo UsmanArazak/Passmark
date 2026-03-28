@@ -269,7 +269,18 @@
 }
 
 @media (max-width: 520px) {
-  .home-form-card { padding: 24px 20px; }
+  .home-form-card { 
+    padding: 24px 20px 80px; /* Extra padding at bottom to clear the fixed button */
+  }
   .subject-grid { grid-template-columns: 1fr 1fr; }
   .home-hero { padding: 48px 20px 64px; }
+  
+  .home-start-btn {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: calc(100% - 40px);
+    z-index: 100;
+    box-shadow: 0 8px 20px rgba(26, 107, 60, 0.3); /* Add shadow to float effect */
+  }
 }
