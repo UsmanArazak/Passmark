@@ -24,6 +24,18 @@ export default function HomePage({ onStart, onViewHistory }) {
   const [subjectError, setSubjectError] = useState('');
   const [expandedSection, setExpandedSection] = useState('science');
 
+  const [showWelcome, setShowWelcome] = useState(() => !localStorage.getItem('pasmark_welcome_seen'));
+  const [showAIAlert, setShowAIAlert] = useState(() => !localStorage.getItem('pasmark_ai_alert_seen'));
+
+  const dismissWelcome = () => {
+    localStorage.setItem('pasmark_welcome_seen', 'true');
+    setShowWelcome(false);
+  };
+  const dismissAIAlert = () => {
+    localStorage.setItem('pasmark_ai_alert_seen', 'true');
+    setShowAIAlert(false);
+  };
+
   function handleStart() {
     let valid = true;
     if (!name.trim()) {
@@ -71,6 +83,29 @@ export default function HomePage({ onStart, onViewHistory }) {
       {/* Form */}
       <section className="home-form-section">
         <div className="home-form-card">
+          
+          {/* Alerts */}
+          {(showWelcome || showAIAlert) && (
+            <div style={{ marginBottom: '24px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
+              {showWelcome && (
+                <div className="alert alert-success animate-fadeInDown">
+                  <div className="alert-content">
+                    <strong>👋 Welcome to Pasmark!</strong> Enter your name below to dive into your personalized JAMB mock experience.
+                  </div>
+                  <button onClick={dismissWelcome} className="alert-close" aria-label="Close">×</button>
+                </div>
+              )}
+              {showAIAlert && (
+                <div className="alert alert-info animate-fadeInDown">
+                  <div className="alert-content">
+                    <strong>🤖 Quick Note:</strong> The current questions are AI-generated to test the system. Real past JAMB questions will be uploaded soon!
+                  </div>
+                  <button onClick={dismissAIAlert} className="alert-close" aria-label="Close">×</button>
+                </div>
+              )}
+            </div>
+          )}
+
           {/* Name */}
           <div style={{ marginBottom: '24px' }}>
             <label htmlFor="student-name" className="form-label">Your Full Name</label>
@@ -78,7 +113,7 @@ export default function HomePage({ onStart, onViewHistory }) {
               id="student-name"
               type="text"
               className="form-input"
-              placeholder="e.g. Adaeze Okonkwo"
+              placeholder="e.g. Usman Arazak"
               value={name}
               onChange={(e) => { setName(e.target.value); setNameError(''); }}
               autoComplete="name"
