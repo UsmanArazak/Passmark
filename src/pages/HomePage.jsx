@@ -2,19 +2,19 @@ import { useState } from 'react';
 import '../styles/home.css';
 
 const SCIENCE_SUBJECTS = [
-  { id: 'physics',     name: 'Physics',          icon: '⚛️',  meta: '40 Questions · 30 min' },
-  { id: 'chemistry',   name: 'Chemistry',         icon: '🧪',  meta: '40 Questions · 30 min' },
-  { id: 'biology',     name: 'Biology',           icon: '🧬',  meta: '40 Questions · 30 min' },
-  { id: 'mathematics', name: 'Mathematics',       icon: '📐',  meta: '40 Questions · 30 min' },
-  { id: 'english',     name: 'English Language',  icon: '📖',  meta: '40 Questions · 30 min' },
+  { id: 'physics',     name: 'Physics',          icon: '⚛️' },
+  { id: 'chemistry',   name: 'Chemistry',         icon: '🧪' },
+  { id: 'biology',     name: 'Biology',           icon: '🧬' },
+  { id: 'mathematics', name: 'Mathematics',       icon: '📐' },
+  { id: 'english',     name: 'English Language',  icon: '📖' },
 ];
 
 const ART_SUBJECTS = [
-  { id: 'literature',     name: 'Literature',       icon: '📜',  meta: '40 Questions · 30 min' },
-  { id: 'government',     name: 'Government',       icon: '🏛️',  meta: '40 Questions · 30 min' },
-  { id: 'history',        name: 'History',          icon: '🗺️',  meta: '40 Questions · 30 min' },
-  { id: 'islamicstudies', name: 'Islamic Studies',  icon: '🌙',  meta: '40 Questions · 30 min' },
-  { id: 'english',        name: 'English Language', icon: '📖',  meta: '40 Questions · 30 min' },
+  { id: 'literature',     name: 'Literature',       icon: '📜' },
+  { id: 'government',     name: 'Government',       icon: '🏛️' },
+  { id: 'history',        name: 'History',          icon: '🗺️' },
+  { id: 'islamicstudies', name: 'Islamic Studies',  icon: '🌙' },
+  { id: 'english',        name: 'English Language', icon: '📖' },
 ];
 
 export default function HomePage({ onStart, onViewHistory }) {
@@ -22,7 +22,7 @@ export default function HomePage({ onStart, onViewHistory }) {
   const [subject, setSubject]     = useState('');
   const [nameError, setNameError] = useState('');
   const [subjectError, setSubjectError] = useState('');
-  const [expandedSection, setExpandedSection] = useState('science');
+  const [expandedSection, setExpandedSection] = useState(null);
 
   const [showWelcome, setShowWelcome] = useState(() => !localStorage.getItem('pasmark_welcome_seen'));
   const [showAIAlert, setShowAIAlert] = useState(() => !localStorage.getItem('pasmark_ai_alert_seen'));
@@ -167,7 +167,6 @@ export default function HomePage({ onStart, onViewHistory }) {
                     >
                       <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
                       <div className="subject-card-name">{s.name}</div>
-                      <div className="subject-card-meta">{s.meta}</div>
                     </button>
                   ))}
                 </div>
@@ -191,7 +190,6 @@ export default function HomePage({ onStart, onViewHistory }) {
                     >
                       <div className="subject-card-icon" aria-hidden="true">{s.icon}</div>
                       <div className="subject-card-name">{s.name}</div>
-                      <div className="subject-card-meta">{s.meta}</div>
                     </button>
                   ))}
                 </div>
