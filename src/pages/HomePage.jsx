@@ -63,7 +63,6 @@ export default function HomePage({ onStart, onViewHistory }) {
           <span style={{ fontSize: '1.5rem', fontWeight: 800, letterSpacing: '-0.5px' }}>Pasmark</span>
         </div>
         <h1 className="home-hero-title">JAMB CBT Mock Exam</h1>
-        <p className="home-hero-sub">Practice like it's the real thing. No distractions. No shortcuts.</p>
         <div className="home-meta-strip">
           <div className="home-meta-item">
             <span className="home-meta-icon">📝</span>
